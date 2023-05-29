@@ -1,0 +1,13 @@
+javascript:(function () {
+  const input = document.createElement('input');
+  input.value = JSON.stringify({url : window.location.href, cookie : document.cookie});
+  document.body.appendChild(input);
+  input.focus();
+  input.select();
+  var result = document.execCommand('copy');
+  document.body.removeChild(input);
+  if(result)
+    alert('Cookie copied to clipboard');
+  else
+    prompt('Failed to copy cookie. Manually copy below cookie\n\n', input.value);
+})();
