@@ -5,7 +5,24 @@ First You have to Login then you can simply run this code in your browser's cons
     
 It'll automatically get copied in Your Notepad.
 You'll get both Crypt and Cookie, Use according to your need.
- 
+
+## Script
+```
+javascript:(function () {
+  const input = document.createElement('input');
+  input.value = JSON.stringify({url : window.location.href, cookie : document.cookie});
+  document.body.appendChild(input);
+  input.focus();
+  input.select();
+  var result = document.execCommand('copy');
+  document.body.removeChild(input);
+  if(result)
+    alert('Cookie copied to clipboard');
+  else
+    prompt('Failed to copy cookie. Manually copy below cookie\n\n', input.value);
+})();
+```
+
 ## Gdtot Crypt
 To Clone or Leech gdtot link follow these steps:
 1. Login/Register to [gdtot](https://new1.gdtot.sbs).
