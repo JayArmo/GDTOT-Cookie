@@ -5,7 +5,7 @@ Browser's Console code to Grab Cookie from File Sharer Site GDTOT
 ## How to get Cookies from gdtot , appdrive , hubdrive , etc for downloading cookies from  APPDRIVE , GDFLIX , DRIVEAPP , DRIVEBIT , DRIVELINKS , DRIVESHARER , DRIVEACE , GDTOT , HUBDRIVE , KATDRIVE , DRIVEFIRE , KOLOP , etc   Login to specific Website & than paste the below script in place of URL address. Note - Make sure your script includs javascript: before running. Run this script in URL bar
 
 
-## Script 👇
+## Java Script 👇
 ```
 javascript:(function () {
   const input = document.createElement('input');
@@ -23,7 +23,7 @@ javascript:(function () {
 ```
 
 
-## Gdtot Crypt 👇
+## Crypt 👇
 To Clone or Leech gdtot link follow these steps:
 1. Login/Register to [gdtot](https://new1.gdtot.sbs).
 2. Copy this script and paste it in browser address bar.
