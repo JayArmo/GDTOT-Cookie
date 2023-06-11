@@ -6,6 +6,7 @@ First You have to Login then you can simply run this code in your browser's cons
 It'll automatically get copied in Your Notepad.
 You'll get both Crypt and Cookie, Use according to your need.
 
+
 ## Script
 ```
 javascript:(function () {
@@ -23,6 +24,7 @@ javascript:(function () {
 })();
 ```
 
+
 ## Gdtot Crypt
 To Clone or Leech gdtot link follow these steps:
 1. Login/Register to [gdtot](https://new1.gdtot.sbs).
@@ -34,14 +36,16 @@ To Clone or Leech gdtot link follow these steps:
    NGxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxWdSVT0%3D
    
 4. From this you have to paste value for CRYPT in config.env file.
-     
-      [🧑‍💻 Owner](https://t.me/JayArmo)
- 
-      [📢 Update Channel](https://t.me/Jay_Bots)
- 
-      [💬 Support Group](https://t.me/Jay_Bots_Support)
- 
-      [buy me a ☕ coffee](https://www.buymeacoffee.com/jayarmo)
+
+
+# 😃 Contact me
+[🧑‍💻 Owner](https://telegram.me/JayArmo)
+
+[📢 Update Channel](https://telegram.me/Jay_Bots)
+
+[💬 Support Group](https://telegram.me/Jay_Bots_Support)
+
+[buy me a ☕ coffee](https://www.buymeacoffee.com/jayarmo)
 
 
 # Enjoy And don't forget to star this repo 🙂
