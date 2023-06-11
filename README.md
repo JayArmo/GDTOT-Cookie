@@ -1,4 +1,4 @@
-## Cookie
+## Cookies
 Browser's Console code to Grab Cookie from File Sharer Site GDTOT
 
 
