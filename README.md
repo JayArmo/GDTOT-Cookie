@@ -36,7 +36,7 @@ To Clone or Leech gdtot link follow these steps:
 4. From this you have to paste value for CRYPT in config.env file.
 
 
-## 😃 Contact me
+## 😃 Connect me
 [🧑‍💻 Owner](https://telegram.me/JayArmo)
 
 [📢 Update Channel](https://telegram.me/Jay_Bots)
